@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+/website/node_modules
+
+## docs
+/website/i18n
+/website/build
+
+# production
+/dist
+
+# jest
+/coverage
+
+examples/src/index.js
+
+# misc
+.DS_Store
+.env
+
+**/*.js
+**/*.d.ts
+
+package-lock.json
